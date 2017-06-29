@@ -6,7 +6,7 @@ public class ShowMustGoOn {
 		int number1 = 123;
 		int number2 = 15;
 
-		String action = "+";
+		String action = "/";
 
 		int resultAsInt;
 		double resultAsDouble;
